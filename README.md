@@ -20,12 +20,12 @@ and attention to detail to turn data into actionable insights
 
 ## 📊 Featured Projects
 
-* Customer Churn Dashboard
-* NZTA & Stats NZ Dashboard
+* [Customer Churn Dashboard](https://github.com/nodenelfayea/customer-churn-dashboard) — Analyzed customer data to identify what drives churn
+* [NZTA & Stats NZ Dashboard](https://github.com/nodenelfayea/nzta-stats-nz-dashboard) — Built a dashboard visualizing NZ transport and population trends
 
 ## 📫 Let's Connect
 
-* LinkedIn: https://www.linkedin.com/in/nodenel-agnote-387622436/
+* LinkedIn: [linkedin.com/in/nodenel-agnote](https://www.linkedin.com/in/nodenel-agnote-387622436/)
 * Email: nodenelfayea@gmail.com
 
 *Thanks for stopping by my profile — feel free to check out my projects below!*
